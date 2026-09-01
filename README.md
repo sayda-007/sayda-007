@@ -21,7 +21,6 @@ My journey started with **HTML and CSS**, where I learned how to structure and d
 ### 🚀 My Goal
 
 My goal is to become a **professional full-stack web developer** by learning consistently, building real projects, solving problems.
-
 I'm still at the beginning of my journey, but I'm enjoying every step of it. 💫
 
 > **Learn → Practice → Build → Make mistakes → Fix them → Grow.** 🚀
@@ -31,10 +30,37 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. �
 **Focused on JavaScript • Building projects • Strengthening fundamentals • One step at a time**
 
 ### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sayda007) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayda007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayda.sheikh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/saydaa007) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sayda007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayda007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saydasheikh007@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/saydaa007)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sayda007)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayda007)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayda.sheikh.) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sayda007)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayda007)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saydasheikh007@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## ⭐ Featured Repositories
+### 🎤 DEVCONF 2026
+A modern developer conference website built with HTML and CSS.
+
+🌐 [Live Page](https://sayda-007.github.io/B14-A01-DevConf-2026-main/)  
+💻 [GitHub Repository](https://github.com/sayda-007/B14-A01-DevConf-2026-main)
+
+### 🎉 Cultural Day Invitation 2026
+A responsive digital invitation created with HTML and CSS.
+
+🌐 [Live Page](https://sayda-007.github.io/CSE-25_Cultural-Day-Invitation_2026/)  
+💻 [GitHub Repository](https://github.com/sayda-007/CSE-25_Cultural-Day-Invitation_2026)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sayda-007&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sayda-007&theme=midnight-purple&hide_border=false)<br/>
@@ -43,10 +69,6 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. �
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### ⭐ Featured Repositories
 
-- 🎤 [**DEVCONF 2026**](https://github.com/sayda-007/B14-A01-DevConf-2026-main)
-  - A developer conference website built as a web development project.
-
-- 🎉 [**Cultural Day Invitation 2026**](https://github.com/sayda-007/CSE-25_Cultural-Day-Invitation_2026)
-  - A responsive digital invitation project created with HTML and CSS.
+---
+## 🌙 Thanks for visiting my profile <3
