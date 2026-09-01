@@ -48,18 +48,41 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. �
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## ⭐ Featured Repositories
-### 🎤 DEVCONF 2026
-A modern developer conference website built with HTML and CSS.
+## ⭐ Featured Projects
 
-🌐 [Live Page](https://sayda-007.github.io/B14-A01-DevConf-2026-main/)  
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎤 DEVCONF 2026
+
+![DEVCONF 2026](./assets/DevConf%202026.JPG)
+
+**A modern developer conference website built with HTML and CSS.**
+
+🌐 [Live Page](https://sayda-007.github.io/B14-A01-DevConf-2026-main/)
+
 💻 [GitHub Repository](https://github.com/sayda-007/B14-A01-DevConf-2026-main)
 
-### 🎉 Cultural Day Invitation 2026
-A responsive digital invitation created with HTML and CSS.
+</td>
 
-🌐 [Live Page](https://sayda-007.github.io/CSE-25_Cultural-Day-Invitation_2026/)  
+<td width="50%">
+
+### 🎉 Cultural Day Invitation 2026
+
+![Cultural Day Invitation 2026](./assets/CSE-25_Cultural-Day-Invitation_2026.JPG)
+
+**A responsive digital invitation created with HTML and CSS.**
+
+🌐 [Live Page](https://sayda-007.github.io/CSE-25_Cultural-Day-Invitation_2026/)
+
 💻 [GitHub Repository](https://github.com/sayda-007/CSE-25_Cultural-Day-Invitation_2026)
+
+</td>
+
+</tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sayda-007&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
