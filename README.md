@@ -107,6 +107,9 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. �
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+## 🐍 My GitHub Contribution Snake
+![GitHub Snake](https://raw.githubusercontent.com/sayda-007/sayda-007/output/github-snake-dark.svg)
+
 
 ---
 ## 🌙 Thanks for visiting my profile <3
