@@ -98,6 +98,9 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. ğŸ’
 </td>
 
 <td width="50%">
+<tr>
+  
+</tr>
 
 ### ğŸ§© DevStack
 
