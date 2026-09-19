@@ -69,11 +69,33 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. �
 <table>
 <tr>
 
+<td colspan="2" align="center" valign="top">
+
+### 🧩 DevStack
+
+<p align="center">
+  <img src="./assets/DevStack.JPG" alt="DevStack Preview" width="500">
+</p>
+
+**A responsive tech stack explorer built with React, TypeScript, and CSS.**
+
+🌐 [Live Page](https://devstack-a05-007.netlify.app/)
+
+💻 [GitHub Repository](https://github.com/sayda-007/DevStack_A05/tree/main)
+
+</td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🎤 DEVCONF 2026
 
-![DEVCONF 2026](./assets/DevConf%202026.JPG)
+<p align="center">
+  <img src="./assets/DevConf%202026.JPG" alt="DEVCONF 2026" width="300">
+</p>
 
 **A modern developer conference website built with HTML and CSS.**
 
@@ -87,35 +109,15 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. �
 
 ### 🎉 Cultural Day Invitation 2026
 
-![Cultural Day Invitation 2026](./assets/CSE-25_Cultural-Day-Invitation_2026.JPG)
+<p align="center">
+  <img src="./assets/CSE-25_Cultural-Day-Invitation_2026.JPG" alt="Cultural Day Invitation 2026" width="300">
+</p>
 
 **A responsive digital invitation created with HTML and CSS.**
 
 🌐 [Live Page](https://sayda-007.github.io/CSE-25_Cultural-Day-Invitation_2026/)
 
 💻 [GitHub Repository](https://github.com/sayda-007/CSE-25_Cultural-Day-Invitation_2026)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧩 DevStack
-
-![DevStack](./assets/DevStack.JPG)
-
-**A responsive tech stack explorer built with React, TypeScript, and CSS.**
-
-🌐 [Live Page](https://devstack-a05-007.netlify.app/)
-
-💻 [GitHub Repository](https://github.com/sayda-007/DevStack_A05/tree/main)
-
-</td>
-
-<td width="50%">
 
 </td>
 
