@@ -101,7 +101,7 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. ðŸ’
 
 ### ðŸ§© DevStack
 
-![DevStack]()
+![DevStack](./assets/DevStack.JPG)
 
 **A responsive tech stack explorer built with React, TypeScript, and CSS.**
 
