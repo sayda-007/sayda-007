@@ -69,7 +69,7 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. ğŸ’
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ğŸ¤ DEVCONF 2026
 
@@ -83,7 +83,7 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. ğŸ’
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ğŸ‰ Cultural Day Invitation 2026
 
@@ -97,10 +97,11 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. ğŸ’
 
 </td>
 
-<td width="50%">
-<tr>
-  
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### ğŸ§© DevStack
 
@@ -114,7 +115,12 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. ğŸ’
 
 </td>
 
+<td width="50%">
+
+</td>
+
 </tr>
+
 </table>
 
 # ğŸ“Š GitHub Stats:
