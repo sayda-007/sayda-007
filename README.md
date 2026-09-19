@@ -97,6 +97,20 @@ I'm still at the beginning of my journey, but I'm enjoying every step of it. �
 
 </td>
 
+<td width="50%">
+
+### 🧩 DevStack
+
+![DevStack]()
+
+**A responsive tech stack explorer built with React, TypeScript, and CSS.**
+
+🌐 [Live Page](https://devstack-a05-007.netlify.app/)
+
+💻 [GitHub Repository](https://github.com/sayda-007/DevStack_A05/tree/main)
+
+</td>
+
 </tr>
 </table>
 
